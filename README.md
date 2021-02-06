@@ -1,5 +1,5 @@
 # Maxima-Minima-For-Multivariable-Equations
-## Maxima Minima For Multivariable Equations Using Lagrange Multipliers
+**Maxima Minima For Multivariable Equations Using Lagrange Multipliers**
 
 ### **Python Project For CSE Semester 1**
 
