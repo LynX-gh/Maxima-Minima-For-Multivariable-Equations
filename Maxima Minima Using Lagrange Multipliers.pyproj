@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f805e590-84d7-4b5f-87f6-5f8c42e7916e</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>Maxima_Minima_Python_Program_Based_On_2.3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Maxima_Minima_Python Program Based On 2.3</Name>
+    <Name>Maxima Minima Using Lagrange Multipliers</Name>
     <RootNamespace>Maxima_Minima_Python Program Based On 2.3</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>Global|PythonCore|3.7</InterpreterId>

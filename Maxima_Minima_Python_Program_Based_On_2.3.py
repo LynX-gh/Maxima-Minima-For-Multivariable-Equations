@@ -22,7 +22,7 @@ while True:
     s = Symbol('s')
     L = Symbol('L')
 
-    print("\nMIN - MAX Of Quadratic Equations \n\n1. Two Variable Equation\n2. Three Variable using Lagrange Multiplier\n3. Quit \n\n\n Made By - \n\tKhush Ramani\tCSE - C\tIU2041230069\n\tKeval Guna\tCSE - C\tIU2041230040 \n\tHemisha Patel\tCSE - C\tIU2031230044")
+    print("\nMIN - MAX Of Quadratic Equations \n\n1. Two Variable Equation\n2. Three Variable using Lagrange Multiplier\n3. Quit \n\n\n Made By - \n\tKhush Ramani\tCSE - C\tIU2041230069")
     choice = input('\n\nSelect Your Choice: ')
 
     if choice == '3':
